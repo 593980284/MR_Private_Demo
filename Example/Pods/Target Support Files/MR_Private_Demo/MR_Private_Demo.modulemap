@@ -1,0 +1,6 @@
+framework module MR_Private_Demo {
+  umbrella header "MR_Private_Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

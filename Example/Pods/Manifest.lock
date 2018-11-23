@@ -1,0 +1,16 @@
+PODS:
+  - MR_Private_Demo (0.1.0)
+
+DEPENDENCIES:
+  - MR_Private_Demo (from `../`)
+
+EXTERNAL SOURCES:
+  MR_Private_Demo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MR_Private_Demo: 540495170237c8522231160edb7d2fb2de54c639
+
+PODFILE CHECKSUM: 309d8261aeb06a90c407b5145ec67a7085fd1fa9
+
+COCOAPODS: 1.5.3
